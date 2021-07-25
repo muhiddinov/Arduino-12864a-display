@@ -10,9 +10,8 @@ Ko'p uchraydigan savol 12864a displey arduinoda qanday ishlaydi?
   <li>Dasturdan foydalanish</li>
 </ul>
 <p>
-<img src="displays.jpg" alt="ST7920 128x64 Grafik Displey" width="198" height="277">
-<p>
-<img src="displays_front.jpg" alt="ST7920 128x64 Grafik Displey" width="198" height="277">
+<img src="displays.jpg" alt="ST7920 128x64 Grafik Displey" width="384" height="554">
+<img src="displays_front.jpg" alt="ST7920 128x64 Grafik Displey" width="384" height="554">
 <p>
 Rasmda ko'rinishidan bir xil lekin, ishlash prinsipi 2 xil bo'lgan displey ko'rsatilgan.
 <p>
@@ -26,11 +25,11 @@ Ikkinchi turdagi displey esa yangilangan versiya hisoblanadi va I/O port orqali 
 <h2>Ulanish sxemasi:</h2>
 <h3>Quyida 2 xil turdagi displeylarning ulanishi keltirilgan:</h3>
 KS0108 displeyning Arduino Uno qurilmasiga ulanishi:
-<img src="KS0108.PNG" alt="KS0108 128x64 Grafik Displey" width="198" height="277">
+<img src="KS0108.PNG" alt="KS0108 128x64 Grafik Displey" width="384" height="554">
 <p>
 ST7920 displeyning Arduino Uno qurilmasiga ulanishi:
 <p>
-<img src="st7920.jpeg" alt="ST7920 128x64 Grafik Displey" width="198" height="277">
+<img src="st7920.jpeg" alt="ST7920 128x64 Grafik Displey" width="384" height="554">
 <p>
 <h2>Dastur:</h2>
 <h3>Dasturdan foydalanishda quyidagi o'zgartirishlar bajariladi:</h3>
