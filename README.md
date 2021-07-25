@@ -1,4 +1,7 @@
 # Arduino-128x64-graphic-display
+<h1>
+Ko'p uchraydigan savol 12864a displey arduinoda qanday ishlaydi? 
+</h1>
 <i><h2>Arduino C++ muhitida quyida 128x64 grafik displey uchun dasturiy vosita rivojlantirilgan. </h2></i>Bu haqda to'liq ma'lumot berib o'taman.
 <p><i><a href=https://www.avrfreaks.net/projects/u8glib-and-u8g2>U8G2 va U8G kutubxonalari.</a></i><p>
 <h3>Foydalanishda quyidagilar bajariladi:</h3>
@@ -6,7 +9,6 @@
   <li>Ulanish sxemasidan foydalanish</li>
   <li>Dasturdan foydalanish</li>
 </ul>
-Ko'p uchraydigan savol 12864a displey arduinoda qanday ishlaydi? 
 <p>
 <img src="displays.jpg" alt="ST7920 128x64 Grafik Displey" width="198" height="277">
 <p>
